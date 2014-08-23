@@ -1,0 +1,18 @@
+Too many results (may be nondeterministic)
+-----------
+
+<core_client_version>6.10.58</core_client_version>
+<![CDATA[
+<stderr_txt>
+14:10:58 (11405): called boinc_finish
+
+</stderr_txt>
+]]>
+
+----------
+{
+  "exit_status": "0",
+  "elapsed_time": "2.040675",
+  "cpu_time": "0.108006",
+  "error_resultid": "29402"
+}

@@ -3,5 +3,6 @@
   "root-dir": "/home/agrbin/projekt/faks/dipl/cli/v8boinc-app-examples/nball",
   "version": "1.0.17",
   "name": "nball",
+  "description": "estimate a volume of an nball",
   "estimated-fpops": 700000000
 }

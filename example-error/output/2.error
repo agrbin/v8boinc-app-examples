@@ -1,0 +1,25 @@
+Too many errors (may have bug)
+-----------
+
+<core_client_version>6.10.58</core_client_version>
+<![CDATA[
+<message>
+process exited with code 84 (0x54, -172)
+</message>
+<stderr_txt>
+undefined:9: 1
+    throw 1;
+    ^
+error while running main()
+14:07:25 (11345): called boinc_finish
+
+</stderr_txt>
+]]>
+
+----------
+{
+  "exit_status": "84",
+  "elapsed_time": "2.030586",
+  "cpu_time": "0.108006",
+  "error_resultid": "29397"
+}
