@@ -1,0 +1,8 @@
+{
+  "created": "Sat Aug 23 2014 00:47:28 GMT+0200 (CEST)",
+  "root-dir": "/home/agrbin/code/v8boinc-app-examples/example-gzip",
+  "version": "0.0.9",
+  "name": "example-gzip",
+  "estimated-fpops": 200000000,
+  "gzipped": true
+}
