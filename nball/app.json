@@ -1,7 +1,7 @@
 {
   "created": "Sat Aug 23 2014 00:47:28 GMT+0200 (CEST)",
-  "root-dir": "/home/agrbin/projekt/faks/dipl/cli/v8boinc-app-examples/nball",
-  "version": "1.0.17",
+  "root-dir": "/home/agrbin/code/v8boinc-app-examples/nball",
+  "version": "1.0.19",
   "name": "nball",
   "description": "estimate a volume of an nball",
   "estimated-fpops": 700000000
